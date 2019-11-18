@@ -42,6 +42,7 @@ class RequestDemo extends Component{
             })
     }
 
+
     render() {
         return(
             <View style={{flex: 1, padding: 20}}>
@@ -75,7 +76,7 @@ class RequestDemo extends Component{
     }
 
     _separatorRender(){
-        return <View style={{backgroundColor: 'black', height: 1}}></View>
+        return <View style={{backgroundColor: 'black', height: 1, opacity: 0.5}}></View>
     }
 
     _clickedCellIndex(index){

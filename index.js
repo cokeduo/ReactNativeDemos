@@ -14,6 +14,10 @@ import ScrollViewDemo from './ReactNativeDemo/ScrollViewDemo';
 import ListViewDemo from './ReactNativeDemo/ListViewDemo';
 import RequestDemo from './ReactNativeDemo/RequestDemo';
 import CallMethodDemo from './ReactNativeDemo/MethodCallDemo';
+import AnimationDemo from './ReactNativeDemo/AnimationDemo';
+import MoveListDermo from './ReactNativeDemo/MoveListDermo';
+import IOSPlatform from './ReactNativeDemo/PlatformIOS';
+import NavigatorDemo from './ReactNativeDemo/NavigatorDemo';
 
 // AppRegistry.registerComponent(appName, () => App);
 
@@ -33,4 +37,12 @@ import CallMethodDemo from './ReactNativeDemo/MethodCallDemo';
 
 // AppRegistry.registerComponent(appName,()=> RequestDemo)
 
-AppRegistry.registerComponent(appName, ()=> CallMethodDemo)
+// AppRegistry.registerComponent(appName, ()=> CallMethodDemo)
+
+// AppRegistry.registerComponent(appName, ()=> AnimationDemo)
+
+// AppRegistry.registerComponent(appName, ()=> MoveListDermo)
+
+// AppRegistry.registerComponent(appName, ()=> IOSPlatform)
+
+AppRegistry.registerComponent(appName, ()=> NavigatorDemo)
