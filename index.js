@@ -18,6 +18,7 @@ import AnimationDemo from './ReactNativeDemo/AnimationDemo';
 import MoveListDermo from './ReactNativeDemo/MoveListDermo';
 import IOSPlatform from './ReactNativeDemo/PlatformIOS';
 import NavigatorDemo from './ReactNativeDemo/NavigatorDemo';
+import MyTabBar from './ReactNativeDemo/TabBarDemo/MyTabBar';
 
 // AppRegistry.registerComponent(appName, () => App);
 
@@ -45,4 +46,7 @@ import NavigatorDemo from './ReactNativeDemo/NavigatorDemo';
 
 // AppRegistry.registerComponent(appName, ()=> IOSPlatform)
 
-AppRegistry.registerComponent(appName, ()=> NavigatorDemo)
+// AppRegistry.registerComponent(appName, ()=> NavigatorDemo)
+
+AppRegistry.registerComponent(appName, () => MyTabBar)
+

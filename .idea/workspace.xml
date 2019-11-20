@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6ef302f-b2d2-4b9f-bc34-842000c01562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/AnimationDemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/MoveListDermo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/NavigatorDemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/PlatformIOS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/SampleAppMovies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/MyTabBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/home_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/home_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/person_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/person_select.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactNativeDemo/MethodCallDemo.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReactNativeDemo/MethodCallDemo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactNativeDemo/RequestDemo.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReactNativeDemo/RequestDemo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReactNativeDemo/intervalUpdateState.js" beforeDir="false" afterPath="$PROJECT_DIR$/ReactNativeDemo/intervalUpdateState.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -74,11 +73,12 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ReactNativeDemo" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -130,6 +130,7 @@
       <workItem from="1574065654764" duration="428000" />
       <workItem from="1574066106499" duration="98000" />
       <workItem from="1574066261540" duration="132000" />
+      <workItem from="1574165702039" duration="8514000" />
     </task>
     <servers />
   </component>
