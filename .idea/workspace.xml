@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6ef302f-b2d2-4b9f-bc34-842000c01562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/MyTabBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/home_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/home_select.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/person_normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs/person_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/ES6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/HomeFlatList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/HomeFlatListDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/utils/fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/utils/hasVideo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/utils/rnheader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReactNativeDemo/utils/rnloading.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -63,7 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ReactNativeDemo/utils" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -73,12 +74,13 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ReactNativeDemo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ReactNativeDemo/utils" />
+      <recent name="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ReactNativeDemo/TabBarDemo/TagImgs" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ReactNativeDemo" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -130,7 +132,18 @@
       <workItem from="1574065654764" duration="428000" />
       <workItem from="1574066106499" duration="98000" />
       <workItem from="1574066261540" duration="132000" />
-      <workItem from="1574165702039" duration="8514000" />
+      <workItem from="1574165702039" duration="8653000" />
+      <workItem from="1574232223655" duration="646000" />
+      <workItem from="1574239569353" duration="304000" />
+      <workItem from="1574322845496" duration="25034000" />
+      <workItem from="1574737500817" duration="2441000" />
+      <workItem from="1574859337187" duration="40000" />
+      <workItem from="1574859406572" duration="5237000" />
+      <workItem from="1574913194548" duration="883000" />
+      <workItem from="1574922200827" duration="8000" />
+      <workItem from="1574933746147" duration="15606000" />
+      <workItem from="1574998304898" duration="512000" />
+      <workItem from="1574998890754" duration="5592000" />
     </task>
     <servers />
   </component>

@@ -19,6 +19,10 @@ import MoveListDermo from './ReactNativeDemo/MoveListDermo';
 import IOSPlatform from './ReactNativeDemo/PlatformIOS';
 import NavigatorDemo from './ReactNativeDemo/NavigatorDemo';
 import MyTabBar from './ReactNativeDemo/TabBarDemo/MyTabBar';
+import ES6 from './ReactNativeDemo/ES6';
+// import HomeFlatList from './ReactNativeDemo/HomeFlatList';
+import HomeListNavigatorDemo from './ReactNativeDemo/HomeFlatList';
+// import HomeFlatListDemo from './ReactNativeDemo/HomeFlatList';
 
 // AppRegistry.registerComponent(appName, () => App);
 
@@ -48,5 +52,15 @@ import MyTabBar from './ReactNativeDemo/TabBarDemo/MyTabBar';
 
 // AppRegistry.registerComponent(appName, ()=> NavigatorDemo)
 
-AppRegistry.registerComponent(appName, () => MyTabBar)
+// AppRegistry.registerComponent(appName, () => MyTabBar)
+
+// AppRegistry.registerComponent(appName, ()=> ES6)
+
+// AppRegistry.registerComponent(appName, ()=> HomeFlatList)
+
+AppRegistry.registerComponent(appName, ()=> HomeListNavigatorDemo)
+
+// AppRegistry.registerComponent(appName, ()=> HomeFlatListDemo)
+
+
 
